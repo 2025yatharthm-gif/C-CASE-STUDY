@@ -1,7 +1,0 @@
-Customer Name: Yatharth
-Distance: 250 km
-Rate per km: 50
-Load Weight: 400 tons
-Total Bill: Rs. 32500
-Payment Status: Pending
---------------------------------------
